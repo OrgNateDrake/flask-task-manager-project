@@ -55,12 +55,3 @@ Yes, you can. Since no personally identifiable information is being captured, we
 ```
 pkill uptime.sh
 rm .vscode/uptime.sh
-```
-
-**Anything more?**
-
-Yes! We'd strongly encourage you to look at the source code of the `uptime.sh` file so that you know what it's doing. As future software developers, it will be great practice to see how these shell scripts work.
-
----
-
-Happy coding!
