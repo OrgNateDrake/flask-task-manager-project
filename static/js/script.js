@@ -4,7 +4,7 @@
 
 $(document).ready(function () {
     $(".sidenav").sidenav({edge: "right"});
-    $('.carousel').carousel();
+    $(".collapsible").collapsible();
     $(".tooltipped").tooltip();
     $("select").formSelect();
     $(".datepicker").datepicker({
